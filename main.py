@@ -1,4 +1,4 @@
 def test():
-    print("Thanks for the awesome tutor session, Charles!")
+    print("Thanks for the tutor session, Charles!")
 
 test()
